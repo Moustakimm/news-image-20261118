@@ -8,15 +8,14 @@ One image that sums up the world's news of Wednesday, November 18, 2026 — draw
 
 ## The image
 
-`entry.png` (1024 × 1024, PNG) is a front page, **THE WORLD TODAY**, dated Wednesday, November 18, 2026, with five stories from the day:
+`entry.png` (1024 × 1024, PNG, deterministic) is a dense broadsheet, **THE WORLD TODAY**, dated Wednesday, November 18, 2026, with 45 stories from the day — the format the top entries of the sister 17 November competition all used:
 
-1. **Xi and Putin meet in Shenzhen as Trump lands in China** — the Chinese and Russian leaders hold talks at the APEC summit, a day before the first-ever three-way summit with U.S. President Donald Trump.
-2. **Iran says it struck U.S. forces in Kuwait** — Iran says its drones hit U.S. positions at Ali Al Salem Air Base; Bahrain says it intercepted attacks; an ADNOC ship is hit in the Strait of Hormuz (11 injured, one missing).
-3. **Quad leaders meet in Manila, first time in two years** — the U.S., Japan, India and Australia hold their first leaders' summit in over two years; Trump announces a major U.S.–Philippines trade deal.
-4. **Israel begins a new operation in central Gaza** — a "concentrated operation" in three areas; Trump's Board of Peace accuses both Israel and Hamas of failing their ceasefire commitments.
-5. **Democrats take the U.S. Senate as Peltola wins Alaska** — Democrat Mary Peltola defeats Sen. Dan Sullivan, giving Democrats a projected 56–44 majority.
+- a giant date masthead, a "45 STORIES · 6 CONTINENTS" banner and a UTC timeline strip;
+- 3 illustrated lead stories: Xi and Putin meet in Shenzhen ahead of the first trilateral with Trump; Iran says its drones struck a US base in Kuwait; Cyclone Akvan bears down on Odisha;
+- 10 illustrated medium stories: the Democrats take the US Senate, the Quad meets in Manila, Israel's Gaza operation, the Crimea bridge strike, Nvidia's earnings, the split Wall Street close, Anthropic's IPO pricing, the midnight GTA VI launch, Trump's hush-money appeal and the Saudi-led strikes on the Houthis;
+- a 32-item numbered list, a "WHERE IT HAPPENED" world map with 13 pins, a DATE CHECK box and a sources line.
 
-The footer adds Cyclone Akvan bearing down on India's east coast, the midnight launch of Grand Theft Auto VI, Britain's sanctions on firms linked to West Bank settlements, and a magnitude 6 earthquake in Papua New Guinea. See [CAPTION.md](CAPTION.md) for the story notes and sources.
+See [CAPTION.md](CAPTION.md) for the story notes and sources. Every story happened or was first reported on 18 November 2026; contested claims are marked as claims.
 
 ## How it was made
 
